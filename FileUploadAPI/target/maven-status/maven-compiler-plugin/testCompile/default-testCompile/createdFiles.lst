@@ -1,0 +1,3 @@
+tests\FileReportTests.class
+tests\FileUploadRESTWebServiceAPITests.class
+tests\FileServiceTests.class

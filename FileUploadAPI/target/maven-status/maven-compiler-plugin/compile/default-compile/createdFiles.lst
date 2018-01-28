@@ -1,0 +1,5 @@
+controller\FileUploadController.class
+service\FileService.class
+exception\FileControllerAdvice.class
+application\FileUploadRESTWebServiceAPI.class
+model\FileReport.class
