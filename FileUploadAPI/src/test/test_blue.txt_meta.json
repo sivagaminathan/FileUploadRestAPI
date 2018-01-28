@@ -1,0 +1,12 @@
+{
+  "fileName" : "test_blue.txt",
+  "wordCount" : 5,
+  "wordOccurence" : {
+    "World" : 1,
+    "blu" : 1,
+    "bluefish" : 1,
+    "bluebutton" : 1,
+    "Hello" : 1
+  },
+  "fileSize" : 35
+}

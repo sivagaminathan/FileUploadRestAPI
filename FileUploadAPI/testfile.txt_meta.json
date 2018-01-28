@@ -1,0 +1,8 @@
+{
+  "fileName" : "testfile.txt",
+  "wordCount" : 1,
+  "wordOccurence" : {
+    "aaa" : 1
+  },
+  "fileSize" : 3
+}

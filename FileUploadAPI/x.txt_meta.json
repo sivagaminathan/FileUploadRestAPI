@@ -1,0 +1,17 @@
+{
+  "fileName" : "x.txt",
+  "wordCount" : 11,
+  "wordOccurence" : {
+    "This" : 1,
+    "not" : 1,
+    "World" : 1,
+    "Hello" : 2,
+    "fun@@@@@" : 1,
+    "is" : 1,
+    "@@132" : 1,
+    "blu" : 1,
+    "hello" : 1,
+    "bluefish" : 1
+  },
+  "fileSize" : 69
+}
