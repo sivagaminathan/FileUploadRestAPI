@@ -139,4 +139,9 @@ Covers functional unit tests
 
 Placeholder file for writing test cases to test the API calls
 
+### API_tests 
+
+Manually tested the API using postman POST and GET. Screenshots are available [api_tests_screenshots_postman](api_test_screenshots_postman/)
+
+
 -------------------------------------------------------------------------------------------------
