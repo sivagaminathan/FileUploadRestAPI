@@ -1,14 +1,30 @@
 # File Upload Rest WebService API
 
-## RUN the service
+## Pre-Reqs
 
-To run the service -- run FileUploadRestAPI-0.0.1-SNAPSHOT.jar file
+Set JAVA_HOME for your environment/OS
+
+## Build and run the service
+
+1. Clone this repository
 
 ```
-$ java -jar FileUploadRestAPI-0.0.1-SNAPSHOT.jar
+git clone https://github.com/sivagaminathan/FileUploadRestAPI.git
 ```
 
-*Required: JAVA_HOME path variable*
+2. Build the jar file and run tests. Run in [FileUploadAPI/](FileUploadAPI/) directory
+
+```
+mvnw clean package
+```
+
+This step creates an executable jar file, which is uploaded [here](FileUploadAPI/target/FileUploadRestAPI-0.0.1-SNAPSHOT.jar) for your convenience
+
+3. Download and run [FileUploadRestAPI-0.0.1-SNAPSHOT.jar](FileUploadAPI/target/FileUploadRestAPI-0.0.1-SNAPSHOT.jar)
+
+```
+java -jar FileUploadRestAPI-0.0.1-SNAPSHOT.jar
+```
 
 ----------------------------------------------------------------------------------------------
 
